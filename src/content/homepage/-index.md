@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "About Me"
+  content: "I began my career in a fast-paced startup where I learned one powerful truth — data drives everything. I wasn’t just writing code; I was solving real business problems, building quick prototypes, breaking things, fixing them, and watching my work impact actual users. That environment pushed me into Machine Learning and taught me how scalable systems are built under pressure. Since then, I’ve committed myself to becoming an engineer who can turn raw data into intelligent, real-world solutions."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "View My Projects"
+    link: "/projects"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "My Journey Into Data Science"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "My introduction to ML wasn’t academic — it was practical. Working in a startup exposed me to real-time problems where data, automation, and predictive models were not optional… they were necessary. Seeing how even small models could influence decisions inspired me to go deeper into ML, Big Data, forecasting, and system design."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Started my ML journey through real business challenges"
+      - "Hands-on exposure to rapid prototyping and data-driven decisions"
+      - "Developed end-to-end systems under tight deadlines"
+      - "Realized the impact of predictive models in real-world environments"
     button:
       enable: false
-      label: "Get Started Now"
+      label: ""
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "What I Do Now"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Today, I work on designing and building scalable systems for AI, data engineering, and predictive analytics. From deep learning models to Spark-based pipelines, I enjoy combining technical depth with practical problem-solving."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Machine Learning (TensorFlow, PyTorch, Scikit-learn)"
+      - "Big Data pipelines with Apache Spark, Hadoop & Databricks"
+      - "Real-time IoT and forecasting models"
+      - "ETL & MLOps with Snowflake, Airflow, Docker, Git"
+      - "Data visualization & business intelligence"
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      enable: false
+      label: ""
+      link: "#"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "What I’m Building Next"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "My goal is to keep building systems that combine intelligence with scale. I’m exploring agent-based systems, distributed ML, multi-modal AI, and ways to turn high-volume data into meaningful insights. I want to create solutions that don’t just predict — but truly improve everyday decision-making."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Exploring agent systems & automation"
+      - "Working on multi-modal AI and ML pipelines"
+      - "Focusing on production-grade engineering"
+      - "Always learning, always shipping"
     button:
       enable: false
       label: ""
