@@ -1,0 +1,92 @@
+{
+  "name": "smeet-nalawade-portfolio",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "lint": "next lint",
+    "generate:resume": "tsx scripts/generate-resume-txt.ts",
+    "predev": "npm run generate:resume",
+    "dev": "NODE_OPTIONS='--max-old-space-size=4096' next dev",
+    "prebuild": "npm run generate:resume",
+    "build": "NODE_OPTIONS='--max-old-space-size=4096' next build",
+    "start": "next start"
+  },
+  "author": {
+    "name": "Smeet Nalawade",
+    "email": "smeet.n@itjobinbox.com",
+    "url": "https://github.com/smeetnalawde"
+  },
+  "description": "Data Scientist and Data Engineer portfolio showcasing projects, skills, and experience in data infrastructure, analytics, and AI/ML systems.",
+  "keywords": [
+    "reactjs",
+    "nextjs",
+    "vercel",
+    "react",
+    "portfolio-website",
+    "portfolio",
+    "react-icons",
+    "cn",
+    "clsx",
+    "3d-portfolio",
+    "3d-website",
+    "sonner",
+    "framer-motion",
+    "motion",
+    "animation",
+    "heroicons",
+    "next-themes",
+    "postcss",
+    "prettier",
+    "react-dom",
+    "tailwindcss",
+    "tailwindcss-animate",
+    "ui/ux",
+    "js",
+    "javascript",
+    "typescript",
+    "eslint",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smeetnalawde"
+  },
+  "homepage": "https://github.com/smeetnalawde",
+  "bugs": {
+    "url": "https://github.com/smeetnalawde",
+    "email": "smeet.n@itjobinbox.com"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "@react-three/drei": "^9.93.0",
+    "@react-three/fiber": "^8.15.13",
+    "canvas": "^3.2.0",
+    "clsx": "^2.1.0",
+    "framer-motion": "^10.17.12",
+    "lucide-react": "^0.554.0",
+    "next": "^14.2.33",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-intersection-observer": "^9.5.3",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "tailwind-merge": "^2.2.0",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5"
+  }
+}

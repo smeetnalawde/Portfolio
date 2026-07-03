@@ -1,0 +1,73 @@
+Smeet Nalawade
+
+201-464-0721 | smeet.n@itjobinbox.com | github.com/smeetnalawde | linkedin.com/in/smeetnalawde/
+
+AI/ML Engineer with 2 years of experience designing and deploying scalable machine learning, Generative AI and cloud-based AI solutions across enterprise environments. Specialized in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), predictive analytics, MLOps and real-time inference architectures using Python, AWS, TensorFlow, PyTorch and MLflow. Proven track record of improving model accuracy, accelerating deployment cycles, optimizing operational efficiency and delivering measurable business impact through data-driven AI initiatives. Adept at building production-grade ML systems, automating model lifecycle management and transforming complex data into actionable insights.
+
+EDUCATION
+
+Stevens Institute of Technology, Hoboken, NJ
+M.S. in Data Science (Finance, Data Engineering, Business Analytics), Expected May 2026
+• Specialization in mathematical foundations for ML and complex data structures.
+
+D.Y. Patil College of Technology, Kolhapur, India
+B.Tech in Artificial Intelligence and Machine Learning, June 2024
+• Core focus on AI-driven automation, Computer Vision, and Reinforcement Learning.
+
+SKILLS
+
+Machine Learning & AI: Supervised Learning, Predictive Modeling, Feature Engineering, Classification, Regression, Clustering, Recommendation Systems, Time Series Forecasting, Anomaly Detection, Model Evaluation, Hyperparameter Tuning
+Generative AI & NLP: Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), Text Embeddings, Semantic Search, NLP Pipelines, Transformer Architectures, Fine-Tuning, AI Chatbots
+MLOps & Model Deployment: MLflow, Model Monitoring, Drift Detection, Experiment Tracking, CI/CD for ML Pipelines, Real-Time Inference Pipelines, Automated Model Retraining, Production Model Deployment
+Programming & AI Frameworks: Python, SQL, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, XGBoost, Hugging Face Transformers
+Data Engineering & Processing: ETL Pipelines, AWS Glue, Amazon Kinesis, Data Pipeline Automation, Feature Data Processing
+Cloud & AI Infrastructure: AWS SageMaker, AWS Lambda, EC2, S3, API Gateway, Serverless AI Architecture, Cloud-Based Model Serving
+Monitoring & Visualization: Prometheus, Grafana, AWS CloudWatch, AWS QuickSight, KPI Reporting, Data Visualization
+
+EXPERIENCE
+
+AI/ML Engineer | ServiceNow | NJ | Feb 2026 – Current
+• Architected a Retrieval-Augmented Generation (RAG) platform leveraging LLMs, text embeddings and semantic search, improving enterprise knowledge retrieval accuracy by 42% and reducing response latency by 35%.
+• Engineered scalable machine learning pipelines using AWS SageMaker, MLflow, and automated retraining workflows, accelerating model deployment cycles by 60% while maintaining 99.5% service availability.
+• Optimized predictive analytics models through advanced feature engineering, hyperparameter tuning and ensemble learning techniques, increasing forecasting accuracy by 28% across business-critical datasets.
+• Developed transformer-based NLP solutions using Hugging Face and PyTorch, enabling intelligent chatbot automation that reduced manual support workload by 50% and improved user satisfaction scores by 32%.
+• Implemented real-time inference architecture with AWS Lambda, API Gateway and Kinesis streams, supporting 3M+ monthly transactions while lowering infrastructure costs by 25%.
+• Spearheaded model monitoring and drift detection frameworks using Prometheus, Grafana and CloudWatch, decreasing production model performance degradation incidents by 45% and improving operational reliability.
+
+ML Engineer | Infinite Infolab | India | Jan 2023 – Jul 2024
+• Built classification and regression models using Scikit-learn, XGBoost and TensorFlow, improving prediction accuracy by 30% and enabling data-driven business decisions across multiple client engagements.
+• Designed end-to-end ETL and feature processing pipelines utilizing Python, SQL, AWS Glue and Pandas, reducing data preparation effort by 55% and increasing processing throughput by 3x.
+• Automated anomaly detection systems for operational datasets, identifying critical incidents 40% faster and reducing unplanned business disruptions by 22%.
+• Enhanced recommendation engine performance through clustering algorithms and behavioral analytics, increasing user engagement metrics by 27% and boosting conversion rates by 18%.
+• Integrated cloud-native ML deployment workflows on AWS infrastructure, including EC2 and S3, shortening model release timelines by 50% and improving scalability for growing workloads.
+• Validated model performance using rigorous evaluation frameworks, cross-validation techniques and experiment tracking, improving production model reliability by 35% and reducing false positives by 24%.
+• Collaborated with cross-functional stakeholders to deliver AI-driven forecasting solutions, generating actionable insights that improved planning efficiency by 33% and reduced reporting turnaround time by 65%.
+
+PROJECTS
+
+Advanced Portfolio Intelligence System (Python · MongoDB · LLM · RAG · Financial NLP)
+• Developed a semantic search engine using LLM-powered Map-Reduce summarization and hybrid vector retrieval to build thematic investment baskets.
+• Engineered a self-healing ETL pipeline in MongoDB that outperformed market baselines in 12-month backtesting.
+
+Quantitative Stock Forecasting System (Python · LSTM · XGBoost · RL · APIs)
+• Architected an end-to-end ML pipeline integrating 5+ APIs with LSTM and XGBoost models to process millions of financial and sentiment records.
+• Enhanced forecasting with RL agents and LLM simulations, boosting model adaptability by 20% across 500+ market scenarios.
+• Developed financial forecasting MVPs achieving 15–18% improvements in forecast accuracy.
+
+Brain Tumor Segmentation (BraTS2020) (PyTorch · 3D U-Net · Medical Imaging · Preprocessing)
+• Built a 3D U-Net pipeline on 1TB+ MRI data with specialized preprocessing and augmentation for multi-modal tumor segmentation.
+
+Emergency Response Optimization (SQL · Python · Predictive Analytics · Risk Management)
+• Queried 5M+ records with SQL to model risk-management and incident response resource reallocation.
+• Optimized deployment strategies to improve emergency response times by 15%.
+
+Computer Vision for Smart Agriculture (TensorFlow · OpenCV · AWS EC2 · Docker)
+• Implemented a CNN image classification pipeline to grade 320k+ labeled images with 95.2% accuracy.
+• Deployed a Flask REST API on AWS EC2 to automate real-time fruit grading, reducing interference latency by 40%.
+
+INTERESTS
+
+Cooking: Enjoys cooking a wide range of cuisines and dishes — not limited to any one cuisine.
+Fitness & Discipline: Maintains a disciplined routine with early-morning deep-work blocks, citing Cristiano Ronaldo (CR7) and Virat Kohli as models of the consistency and elite-performance mindset he applies to his work.
+Entrepreneurial Curiosity: Thinks about products and businesses beyond engineering — for example, exploring an idea to import GI-tagged Kolhapuri chappals.
+Standout Project Moment: The "aha" of the Multi-Agent Governance System was proving a governance layer could block a rogue agent's unauthorized actions in real time, with a full audit trail, while the agent actively tried to break it.
